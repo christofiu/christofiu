@@ -1,7 +1,7 @@
 ### Christopher Cainã Santos
 ### ou *cняıstσfiu*
-![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dracula)](https://github.com/christofiu)  
+![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dark)](https://github.com/christofiu)  
 
 <!--
 
