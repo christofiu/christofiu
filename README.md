@@ -1,7 +1,10 @@
-### Hi there 👋
+### Christopher Cainã Santos
+### ou *cняıstσfiu*
+![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dracula)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dracula)](https://github.com/christofiu)  
 
 <!--
-**christofiu/christofiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?christofiu=Your_GitHub_christofiu&show_icons=true)
