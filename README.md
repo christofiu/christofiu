@@ -1,6 +1,10 @@
-### Christopher Cainã Santos
-### ou *cняıstσfiu*
+## Christopher Cainã Santos  
+#### Christopher ou christofiu, primeira linha de codigo em 2022 e apaixonado desde então. 
+#### buscando oportunidade para aprender como desenvolvedor
+*não espere por mim, epere mais de mim*  
+ #  
 ![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dracula)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dracula)](https://github.com/christofiu)  
 
 <!--
