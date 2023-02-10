@@ -1,5 +1,5 @@
 ## Christopher Cainã Santos  
-#### Christopher ou christofiu, primeira linha de codigo em 2022 e apaixonado desde então. 
+#### Christopher ou christofiu, primeira linha de código em 2022 e apaixonado desde então. 
 #### buscando oportunidade para aprender como desenvolvedor
 *não espere por mim, epere mais de mim*  
  #  
