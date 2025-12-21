@@ -7,7 +7,7 @@ interesse  em **desenvolvimento de software**, **integração de sistemas**, **a
 
 ###  Conhecimentos Técnicos
 - **Programação:** JavaScript, Python (básico), C  
-- **Desenvolvimento Web:** HTML5, CSS, noções de APIs REST  
+- **Desenvolvimento Web:** HTML5, CSS,
 - **Banco de Dados:** SQL (consultas básicas, filtros, ordenação e agrupamento)    
 
 ###  Objetivo
