@@ -1,24 +1,20 @@
-## Christopher Cainã Santos  
-#### Christopher ou christofiu, primeira linha de código em 2022 e apaixonado desde então. 
-#### buscando oportunidade para aprender como desenvolvedor
-*não espere por mim, epere mais de mim*  
- #  
-![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dracula)  
+## Christopher Cainã dos Santos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dracula)](https://github.com/christofiu)  
+interesse  em **desenvolvimento de software**, **integração de sistemas**, **análise de dados** e **inteligência artificial**. Busco uma oportunidade de **estágio** para aplicar meus conhecimentos acadêmicos na prática e evoluir profissionalmente em ambientes colaborativos e orientados à tecnologia.
 
-<!--
+### 🎓 Formação
+- Ciência da Computação – UTFPR (4º período)
 
+###  Conhecimentos Técnicos
+- **Programação:** JavaScript, Python (básico), C  
+- **Desenvolvimento Web:** HTML5, CSS, noções de APIs REST  
+- **Banco de Dados:** SQL (consultas básicas, filtros, ordenação e agrupamento)    
 
-Here are some ideas to get you started:
+###  Objetivo
+Atuar como **estagiário na área de tecnologia**, contribuindo com o time, aprendendo boas práticas de desenvolvimento e fortalecendo minha base técnica em projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+![christofiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=christofiu&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofiu&layout=compact&theme=dracula)](https://github.com/christofiu)
